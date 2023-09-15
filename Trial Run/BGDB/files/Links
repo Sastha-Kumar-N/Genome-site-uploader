@@ -1,0 +1,3 @@
+http://localhost/tripal3/bio_data/1#overlay-context=node/2     -Citrus sinensis
+
+http://localhost/jbrowse/?loc=ctgA%3A23555..26422&tracks=DNA%2Calignments%2Cgenes%2Crefseq&highlight=       Jbrowse
